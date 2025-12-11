@@ -60,7 +60,7 @@ Memory Utilization: 75%
 🧾 Report
 
 The full project report is available here:
-📄 Adaptive_Resource_Allocation_Report.pdf
+📄 adaptive_resource_allocation.pdf
 
 🧠 Future Enhancements
 
